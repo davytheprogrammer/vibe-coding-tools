@@ -39,7 +39,6 @@
 |------|-------------|---------|------|
 | **Cursor** | AI-first code editor with GPT-4 integration | Free tier + $20/month Pro | [cursor.sh](https://cursor.sh) |
 | **Windsurf** | Next-gen AI IDE with agentic coding flows | Free tier + Pro plans | [codeium.com/windsurf](https://codeium.com/windsurf) |
-| **Bolt.new** | AI-powered instant full-stack development | Free tier + usage-based | [bolt.new](https://bolt.new) |
 | **Zed** | High-performance collaborative code editor with AI | Free + optional AI features | [zed.dev](https://zed.dev) |
 | **Replit** | Browser-based IDE with AI pair programming | Free tier + $20/month Core | [replit.com](https://replit.com) |
 | **GitHub Codespaces** | Cloud-hosted development environments | Free tier + usage-based pricing | [github.com/codespaces](https://github.com/codespaces) |
@@ -48,7 +47,7 @@
 
 | Extension | Description | Pricing | Link |
 |-----------|-------------|---------|------|
-| **GitHub Copilot** | AI pair programmer by GitHub | $10/month individual ($100/year) | [marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) |
+| **GitHub Copilot** | AI pair programmer by GitHub | $10/month individual | [marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) |
 | **Codeium** | Free AI code completion with chat | Free | [marketplace](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium) |
 | **Supermaven** | Fast AI code completion | Free tier + $10/month Pro | [marketplace](https://marketplace.visualstudio.com/items?itemName=supermaven.supermaven) |
 | **Continue** | Open-source AI code assistant with custom models | Free | [marketplace](https://marketplace.visualstudio.com/items?itemName=Continue.continue) |
