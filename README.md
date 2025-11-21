@@ -22,55 +22,72 @@
 
 ---
 
-## 🤖 Browser Chatbots
+## 🤖 AI Chat Interfaces for Coding
 
 | Tool | Description | Pricing | Link |
 |------|-------------|---------|------|
-| **ChatGPT** | OpenAI's conversational AI for coding assistance | Free tier + $20/month Pro | [chatgpt.com](https://chatgpt.com) |
-| **Claude** | Anthropic's AI assistant with excellent coding capabilities | Free tier + $20/month Pro | [claude.ai](https://claude.ai) |
-| **Gemini** | Google's multimodal AI with code generation | Free tier + $20/month Advanced | [gemini.google.com](https://gemini.google.com) |
-| **Perplexity** | AI search engine with coding context | Free tier + $20/month Pro | [perplexity.ai](https://perplexity.ai) |
-| **You.com** | AI search with integrated development tools | Free tier + $20/month Pro | [you.com](https://you.com) |
+| **ChatGPT** | OpenAI's conversational AI with code interpreter | Free tier + $20/month Plus | [chatgpt.com](https://chatgpt.com) |
+| **Claude** | Anthropic's AI with superior coding and reasoning | Free tier + $20/month Pro | [claude.ai](https://claude.ai) |
+| **Gemini** | Google's multimodal AI with code execution | Free tier + $20/month Advanced | [gemini.google.com](https://gemini.google.com) |
+| **DeepSeek** | Powerful open-source coding model | Free tier available | [chat.deepseek.com](https://chat.deepseek.com) |
+| **Perplexity** | AI search with code generation and research | Free tier + $20/month Pro | [perplexity.ai](https://perplexity.ai) |
+| **Poe** | Access multiple AI models in one interface | Free tier + $20/month | [poe.com](https://poe.com) |
 
 ## 💻 AI IDEs & Code Editors
 
 | Tool | Description | Pricing | Link |
 |------|-------------|---------|------|
 | **Cursor** | AI-first code editor with GPT-4 integration | Free tier + $20/month Pro | [cursor.sh](https://cursor.sh) |
-| **Replit** | Browser-based IDE with AI pair programming | Free tier + $7/month Hacker | [replit.com](https://replit.com) |
-| **CodeSandbox** | Online IDE with AI-powered development | Free tier + $9/month Pro | [codesandbox.io](https://codesandbox.io) |
-| **Gitpod** | Cloud development environment with AI features | Free tier + $9/month Personal | [gitpod.io](https://gitpod.io) |
+| **Windsurf** | Next-gen AI IDE with agentic coding flows | Free tier + Pro plans | [codeium.com/windsurf](https://codeium.com/windsurf) |
+| **Bolt.new** | AI-powered instant full-stack development | Free tier + usage-based | [bolt.new](https://bolt.new) |
+| **Zed** | High-performance collaborative code editor with AI | Free + optional AI features | [zed.dev](https://zed.dev) |
+| **Replit** | Browser-based IDE with AI pair programming | Free tier + $20/month Core | [replit.com](https://replit.com) |
 | **GitHub Codespaces** | Cloud-hosted development environments | Free tier + usage-based pricing | [github.com/codespaces](https://github.com/codespaces) |
 
 ## 🔌 VS Code Extensions
 
 | Extension | Description | Pricing | Link |
 |-----------|-------------|---------|------|
-| **GitHub Copilot** | AI pair programmer by GitHub | $10/month individual | [marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) |
+| **GitHub Copilot** | AI pair programmer by GitHub | $10/month individual ($100/year) | [marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) |
+| **Codeium** | Free AI code completion with chat | Free | [marketplace](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium) |
+| **Supermaven** | Fast AI code completion | Free tier + $10/month Pro | [marketplace](https://marketplace.visualstudio.com/items?itemName=supermaven.supermaven) |
+| **Continue** | Open-source AI code assistant with custom models | Free | [marketplace](https://marketplace.visualstudio.com/items?itemName=Continue.continue) |
 | **Tabnine** | AI code completion for multiple languages | Free tier + $12/month Pro | [marketplace](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) |
-| **CodeGPT** | ChatGPT integration for VS Code | Free with API key | [marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) |
-| **Codeium** | Free AI code completion alternative | Free | [marketplace](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium) |
-| **Amazon CodeWhisperer** | AWS AI coding companion | Free tier available | [marketplace](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) |
+| **Cody** | AI coding assistant by Sourcegraph | Free tier + Pro plans | [marketplace](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai) |
 
-## 🎨 Website Builders & No-Code Tools
+## 🎨 AI-Powered Website Builders & No-Code Tools
 
 | Tool | Description | Pricing | Link |
 |------|-------------|---------|------|
+| **v0 by Vercel** | AI-powered React/Next.js component generator | Free tier + usage-based | [v0.dev](https://v0.dev) |
 | **Lovable** | AI-powered full-stack web app builder | Free tier + $20/month Pro | [lovable.dev](https://lovable.dev) |
-| **v0 by Vercel** | AI-powered React component generator | Free tier + usage-based | [v0.dev](https://v0.dev) |
+| **Bolt.new** | Instant AI-powered full-stack apps | Free tier + usage-based | [bolt.new](https://bolt.new) |
+| **Relume** | AI website builder with design systems | Free tier + $38/month Pro | [relume.io](https://relume.io) |
 | **Framer** | AI website builder with design tools | Free tier + $5/month Mini | [framer.com](https://framer.com) |
 | **Webflow** | Visual web development with AI features | Free tier + $14/month Basic | [webflow.com](https://webflow.com) |
-| **Bubble** | No-code app builder with AI integrations | Free tier + $25/month Personal | [bubble.io](https://bubble.io) |
+
+## 🤖 AI Coding Agents & Assistants
+
+| Tool | Description | Pricing | Link |
+|------|-------------|---------|------|
+| **Devin** | Autonomous AI software engineer | Waitlist/Enterprise | [devin.ai](https://devin.ai) |
+| **GitHub Copilot Workspace** | AI-native development environment | GitHub Copilot subscription | [github.com/copilot](https://github.com/copilot) |
+| **Aider** | AI pair programming in your terminal | Free + API costs | [aider.chat](https://aider.chat) |
+| **GPT Engineer** | Build entire codebases from prompts | Free + API costs | [gptengineer.app](https://gptengineer.app) |
+| **Smol Developer** | AI agent that creates entire codebases | Free + API costs | [github.com/smol-ai/developer](https://github.com/smol-ai/developer) |
+| **MetaGPT** | Multi-agent framework for software development | Free + API costs | [github.com/geekan/MetaGPT](https://github.com/geekan/MetaGPT) |
 
 ## 🛠️ Development Tools & APIs
 
 | Tool | Description | Pricing | Link |
 |------|-------------|---------|------|
-| **OpenAI API** | Access to GPT models for applications | Pay-per-use | [platform.openai.com](https://platform.openai.com) |
+| **OpenAI API** | Access to GPT-4 and other models | Pay-per-use | [platform.openai.com](https://platform.openai.com) |
 | **Anthropic API** | Claude AI model access | Pay-per-use | [console.anthropic.com](https://console.anthropic.com) |
+| **Google AI Studio** | Access to Gemini models | Free tier + pay-per-use | [ai.google.dev](https://ai.google.dev) |
 | **Hugging Face** | Open-source AI models and datasets | Free tier + Pro plans | [huggingface.co](https://huggingface.co) |
 | **Replicate** | Run AI models via API | Pay-per-use | [replicate.com](https://replicate.com) |
 | **Together AI** | Fast inference for open-source models | Pay-per-use | [together.ai](https://together.ai) |
+| **Groq** | Ultra-fast LLM inference | Free tier + pay-per-use | [groq.com](https://groq.com) |
 
 ## 🎯 Specialized AI Tools
 
@@ -78,33 +95,39 @@
 |------|-------------|---------|------|
 | **Midjourney** | AI image generation for UI/UX design | $10/month Basic | [midjourney.com](https://midjourney.com) |
 | **DALL-E 3** | OpenAI's image generation model | Pay-per-use | [platform.openai.com](https://platform.openai.com) |
+| **Ideogram** | AI image generation with text rendering | Free tier + $8/month Plus | [ideogram.ai](https://ideogram.ai) |
 | **RunwayML** | AI video and image editing tools | Free tier + $12/month Standard | [runwayml.com](https://runwayml.com) |
 | **ElevenLabs** | AI voice generation and cloning | Free tier + $5/month Starter | [elevenlabs.io](https://elevenlabs.io) |
-| **Notion AI** | AI writing assistant for documentation | $10/month per user | [notion.so](https://notion.so) |
+| **Suno** | AI music generation | Free tier + $10/month Pro | [suno.ai](https://suno.ai) |
+| **Gamma** | AI presentation and document creation | Free tier + $10/month Plus | [gamma.app](https://gamma.app) |
 
 ## 📱 Mobile Development
 
 | Tool | Description | Pricing | Link |
 |------|-------------|---------|------|
 | **FlutterFlow** | Visual Flutter app builder with AI | Free tier + $30/month Standard | [flutterflow.io](https://flutterflow.io) |
-| **Expo** | React Native platform with AI features | Free tier + $29/month Production | [expo.dev](https://expo.dev) |
-| **Glide** | No-code app builder | Free tier + $25/month Maker | [glideapps.com](https://glideapps.com) |
+| **Expo** | React Native platform | Free tier + $29/month Production | [expo.dev](https://expo.dev) |
+| **Glide** | No-code mobile app builder | Free tier + $25/month Maker | [glideapps.com](https://glideapps.com) |
+| **Draftbit** | Visual mobile app builder | Free tier + $19/month Starter | [draftbit.com](https://draftbit.com) |
 
 ## 🔍 Code Analysis & Testing
 
 | Tool | Description | Pricing | Link |
 |------|-------------|---------|------|
 | **SonarQube** | Code quality and security analysis | Free Community + Enterprise pricing | [sonarqube.org](https://sonarqube.org) |
-| **DeepCode** | AI-powered code review | Free for open source | [snyk.io/product/snyk-code](https://snyk.io/product/snyk-code) |
-| **Testim** | AI-powered test automation | Free tier + $450/month Essentials | [testim.io](https://testim.io) |
+| **Snyk Code** | AI-powered code security analysis | Free for open source | [snyk.io/product/snyk-code](https://snyk.io/product/snyk-code) |
+| **CodeRabbit** | AI-powered code review automation | Free for open source + Pro plans | [coderabbit.ai](https://coderabbit.ai) |
+| **Codium AI** | AI-powered test generation | Free tier + Pro plans | [codium.ai](https://codium.ai) |
+| **Diffblue Cover** | AI unit test generation for Java | Free trial + Enterprise pricing | [diffblue.com](https://diffblue.com) |
 
 ## 📈 Analytics & Monitoring
 
 | Tool | Description | Pricing | Link |
 |------|-------------|---------|------|
-| **Sentry** | Error monitoring with AI insights | Free tier + $26/month Team | [sentry.io](https://sentry.io) |
-| **LogRocket** | Session replay with AI analysis | Free tier + $99/month Professional | [logrocket.com](https://logrocket.com) |
-| **DataDog** | Infrastructure monitoring with AI | Free tier + $15/month Pro | [datadoghq.com](https://datadoghq.com) |
+| **Sentry** | Error monitoring and performance tracking | Free tier + $26/month Team | [sentry.io](https://sentry.io) |
+| **LogRocket** | Session replay and error tracking | Free tier + $99/month Team | [logrocket.com](https://logrocket.com) |
+| **DataDog** | Infrastructure and application monitoring | Free tier + $15/month Pro | [datadoghq.com](https://datadoghq.com) |
+| **Highlight** | Open-source session replay and monitoring | Free tier + $50/month Team | [highlight.io](https://highlight.io) |
 
 ---
 
