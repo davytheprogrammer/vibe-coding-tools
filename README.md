@@ -28,7 +28,7 @@
 
 | Tool | Description | Pricing | Link |
 |------|-------------|---------|------|
-| **Cursor** | AI-first code editor with Claude and GPT-4 integration | Free tier + $20/month Pro | [cursor.com](https://cursor.com) |
+| **Cursor** | AI-first code editor with Claude and GPT-4 integration | Free tier + $20/month Pro | [cursor.sh](https://cursor.sh) |
 | **Windsurf** | Codeium's new AI-native editor with Cascade | Free tier + $15/month Pro | [codeium.com/windsurf](https://codeium.com/windsurf) |
 | **Replit** | Browser-based IDE with Replit Agent | Free tier + $25/month Core | [replit.com](https://replit.com) |
 | **GitHub Codespaces** | Cloud development with Copilot integration | 60 hours free/month + usage-based | [github.com/codespaces](https://github.com/codespaces) |
@@ -84,7 +84,7 @@
 | **GitHub Copilot Workspace** | AI-native development environment | Included in Copilot subscription | [github.com](https://github.com/features/copilot) |
 | **Replit Agent** | AI that builds complete apps | $25/month with Core | [replit.com](https://replit.com) |
 | **Lovable Agent** | AI full-stack developer | Included in Lovable Pro | [lovable.dev](https://lovable.dev) |
-| **Cursor Composer** | Multi-file editing AI agent | Included in Cursor Pro | [cursor.com](https://cursor.com) |
+| **Cursor Composer** | Multi-file editing AI agent | Included in Cursor Pro | [cursor.sh](https://cursor.sh) |
 
 ## 📱 Mobile & Cross-Platform Development
 
